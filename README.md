@@ -160,7 +160,7 @@ Ensure you have the following installed on your workstation:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/reposage.git
+git clone [https://github.com/your-org/reposage.git](https://github.com/Ashwin-tech-N/RepoSage)
 cd reposage
 ```
 
