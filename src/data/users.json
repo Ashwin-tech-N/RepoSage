@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "user-001",
+      "name": "Demo Developer",
+      "email": "demo@reposage.dev",
+      "username": "demodev",
+      "passwordHash": null,
+      "role": "Lead Software Engineer",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80"
+    }
+  ]
+}

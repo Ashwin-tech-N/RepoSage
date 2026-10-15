@@ -1,0 +1,6 @@
+{
+  "name": "RepoSage",
+  "description": "AI-powered software engineering platform to analyze GitHub repositories, detect bugs, review patches, execute automated tests, manage Docker & Kubernetes deployments, and monitor live application health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
